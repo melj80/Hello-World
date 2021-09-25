@@ -1,6 +1,6 @@
 # Hello-World
-Lets play a game, if you see this, edit and add a line to create a story.  
+Best dad jokes
 
-I'll start...
+Q: What do you call a fish wearing a bowtie?
 
-Once upon a time, in a land far, far away, there was a dog.
+A: Sofishticated

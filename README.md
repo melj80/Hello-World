@@ -1,3 +1,6 @@
 # Hello-World
-1st repository
-I live in Alberta, Canada.  I have a dog, a cat and a gecko.  
+Lets play a game, if you see this, edit and add a line to create a story.  
+
+I'll start...
+
+Once upon a time, in a land far, far away, there was a dog.
